@@ -1,0 +1,15 @@
+C:\Users\caixu\source\repos\rev\rev\bin\Debug\net6.0\rev.exe
+C:\Users\caixu\source\repos\rev\rev\bin\Debug\net6.0\rev.deps.json
+C:\Users\caixu\source\repos\rev\rev\bin\Debug\net6.0\rev.runtimeconfig.json
+C:\Users\caixu\source\repos\rev\rev\bin\Debug\net6.0\rev.dll
+C:\Users\caixu\source\repos\rev\rev\bin\Debug\net6.0\rev.pdb
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.csproj.AssemblyReference.cache
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.AssemblyInfoInputs.cache
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.AssemblyInfo.cs
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.csproj.CoreCompileInputs.cache
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.dll
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\refint\rev.dll
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.pdb
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\rev.genruntimeconfig.cache
+C:\Users\caixu\source\repos\rev\rev\obj\Debug\net6.0\ref\rev.dll
